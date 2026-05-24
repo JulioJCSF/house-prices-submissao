@@ -16,8 +16,8 @@ Repositório de submissão do **Projeto 2 — Competição de Machine Learning: 
 
 ## 🔗 Repositórios
 
-- **Submissão (este):** [`house-prices-submissao`]( )
-- **Desenvolvimento (EDA, scripts, notebooks):** [`house-prices-desenvolvimento`]( )
+- **Submissão (este):** [`house-prices-submissao`](https://github.com/JulioJCSF/house-prices-submissao)
+- **Desenvolvimento (EDA, scripts, notebooks):** [`house-prices-desenvolvimento`](https://github.com/JulioJCSF/house-prices-desenvolvimento)
 
 > ⚠️ Atualizem os links acima depois de subir os repos no GitHub.
 
